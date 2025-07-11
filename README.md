@@ -1,3 +1,5 @@
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/3f2f4f94-dee8-41c1-966f-841033447064" />
+<br>
 <h1 align="center"> :speech_balloon: Challenge ONE Praticando Spring Framework: Fórum Hub :speech_balloon: </h1>
 
 <div align="center">
