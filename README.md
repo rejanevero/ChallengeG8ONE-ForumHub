@@ -4,7 +4,7 @@
 
 ForumHub é uma aplicação web desenvolvida em Java com Spring Boot, que simula um fórum de discussão online. O objetivo principal é permitir a criação, visualização e interação em tópicos de discussão, facilitando o aprendizado colaborativo e a troca de conhecimento entre usuários.
 
-![8f9126de-f8e2-4249-8584-a59b91ff928e](https://github.com/user-attachments/assets/9360ad45-4d9b-4a79-92bc-96d61a98db1c)
+
 
 </div>
 
